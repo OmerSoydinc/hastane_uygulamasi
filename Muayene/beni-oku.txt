@@ -1,0 +1,3 @@
+Lütfen projeyi çalıştırmadan önce 
+"com.mycompany.muayene.DBUtils.Mssql.java"
+Sınıfındaki konfigurasyonları kontrol ediniz.
